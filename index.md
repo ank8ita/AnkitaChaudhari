@@ -1,7 +1,7 @@
 <script src="test.js">
 </script>
 
- <h1>Hello Welcome to the page </h1>
+
  <div>
  <div class="container" id="quotesButton" display="block">
             <div class="buttonCenter">
