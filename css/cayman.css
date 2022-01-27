@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box; }
+
 .button {
   background-color: #4CAF50; /* Green */
   border: none;
@@ -9,6 +10,14 @@
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+}
+.buttonCenter {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 body {
   padding: 0;
