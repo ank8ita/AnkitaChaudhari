@@ -1,4 +1,4 @@
-<script src='test.js'>
+<script src="test.js">
 </script>
 
 <h1>Hello Welcome to the page </h1>
