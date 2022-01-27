@@ -7,7 +7,7 @@
                 <input type="button" onclick="displayQuotes()" class="button" value="Inspire Me">
             </div>
  </div>
- <div class="container" id="quotesDiv" display="none" visibility: hidden>
+ <div class="container" id="quotesDiv" display="block" visibility: hidden>
             <p id="quote"></p>
             <p id="author"></p>
  </div>
