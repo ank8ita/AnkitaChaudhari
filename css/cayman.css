@@ -11,12 +11,7 @@
   display: inline-block;
   font-size: 16px;
 }
-.buttonCenter {
-  margin: 0;
-  position: absolute;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-}
+
 img {
   border-radius: 50%;
   display: block;
