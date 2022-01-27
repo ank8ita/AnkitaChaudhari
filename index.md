@@ -9,8 +9,8 @@
             </div>
  </div>
  <div class="container" id="quotesDiv" display="block">
-            <h1 id="quote"></h1>
-            <h1 id="author"></h1>
+            <p id="quote"></p>
+            <p id="author"></p>
  </div>
  </div>
 
