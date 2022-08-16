@@ -26,7 +26,7 @@ const quotes = [
     "author": "Nelson Mandela"
   }, 
   {
-    "quote": “If I had asked people what they wanted, they would have said faster horses.”,
+    "quote": "If I had asked people what they wanted, they would have said faster horses.",
     "author": "Henry Ford"
   },
   {
@@ -104,6 +104,4 @@ const quotes = [
     "quote": "Don't wish it was easier, wish you were better. Don't wish for less problem, wish for more skills. Don't wish for less challenge, wish for more wisdom.",
     "author": "Jim Rohn"
   }
-
-
 ];
