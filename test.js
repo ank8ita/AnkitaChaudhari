@@ -24,6 +24,10 @@ const quotes = [
   {
     "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall",
     "author": "Nelson Mandela"
+  }, 
+  {
+    "quote": “If I had asked people what they wanted, they would have said faster horses.”,
+    "author": "Henry Ford"
   },
   {
     "quote": "Work So Hard That One Day Your Signature Will Be Called An Autograph",
