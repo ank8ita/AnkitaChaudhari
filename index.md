@@ -5,7 +5,7 @@
  <div>
  <div id="quotesButton" display="block">
             <div class="buttonCenter">
-                <input type="button" onclick="displayQuotes()" class="button" value="Inspire Me">
+                <input type="button" onclick="displayQuotes()" class="button" value="Click for Inspiration">
             </div>
  </div>
  <div id="quotesDiv" display="block">
