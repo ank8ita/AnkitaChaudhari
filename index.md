@@ -3,10 +3,10 @@
 
 
  <div>
- <audio controls autoplay>
-  <source src="/AnkitaChaudhari/Happy Whistling Ukulele.mp3" type="audio/mpeg">
- </audio>
- <embed src="/AnkitaChaudhari/Happy Whistling Ukulele.mp3" loop="true"  width="2" height="10" hidden="true" autostart="true">
+ <iframe src="AnkitaChaudhari/Happy Whistling Ukulele.mp3" allow="autoplay" id="audio" style="display: none"></iframe>
+ <audio id="player" autoplay loop>
+    <source src="AnkitaChaudhari/Happy Whistling Ukulele.mp3" type="audio/mp3">
+  </audio>
  <div id="quotesButton" display="block">
             <div class="buttonCenter">
                 <input type="button" onclick="displayQuotes()" class="button" value="Click for Inspiration">
