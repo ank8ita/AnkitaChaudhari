@@ -1,10 +1,13 @@
 <script src="test.js">
- document.addEventListener('click', musicPlay);
+
+</script>
+<script>
+  document.addEventListener('click', musicPlay);
  function musicPlay() {
-    document.getElementById('player').play();
+    document.getElementById('player').play()
     document.removeEventListener('click', musicPlay);
  }
-</script>
+ </script>
 
 
  <div>
