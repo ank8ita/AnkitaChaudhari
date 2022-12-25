@@ -3,7 +3,7 @@
 
 
  <div>
-  <embed src="/AnkitaChaudhari/Happy Whistling Ukulele.mp3" loop="true" autostart="true" width="2" height="0">
+  <embed src="/AnkitaChaudhari/Happy Whistling Ukulele.mp3" loop="true" autostart="true" width="2" height="10">
  <div id="quotesButton" display="block">
             <div class="buttonCenter">
                 <input type="button" onclick="displayQuotes()" class="button" value="Click for Inspiration">
