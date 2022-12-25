@@ -5,7 +5,7 @@
  <div>
  <iframe src="silence.mp3" allow="autoplay" id="audio" style="display: none"></iframe>
  <audio id="player" autoplay loop>
-    <source src="/AnkitaChaudhari/Happy Whistling Ukulele.mp3" type="audio/mp3">
+    <source src="/Happy Whistling Ukulele.mp3" type="audio/mp3">
   </audio>
  <div id="quotesButton" display="block">
             <div class="buttonCenter">
