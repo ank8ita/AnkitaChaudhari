@@ -28,6 +28,11 @@ const quotes = [
   {
     "quote": "If I had asked people what they wanted, they would have said faster horses.",
     "author": "Henry Ford"
+  }
+  ,
+  {
+    "quote": "If you’re good at something, never do it for free.",
+    "author": "The Dark Knight"
   },
     {
     "quote": "Weak people revenge. Strong people forgive. Intelligent People Ignore",
@@ -38,7 +43,7 @@ const quotes = [
     "author": "Nelson Mandela"
   }, 
     {
-    "quote": "TEverybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.",
+    "quote": "Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.",
     "author": "Albert Einstein"
   }, 
   {
