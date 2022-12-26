@@ -21,7 +21,10 @@ function sleep(ms) {
 
 
 const quotes = [
-
+  {
+    "quote": "A mind is like a parachute. It doesn't work if it is not open.",
+    "author": "Frank Zappa"
+  },
   {
     "quote": "If I had asked people what they wanted, they would have said faster horses.",
     "author": "Henry Ford"
