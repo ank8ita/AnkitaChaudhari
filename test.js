@@ -2,8 +2,7 @@ async function displayQuotes() {
   console.log(quotes);
   document.getElementById("quotesButton").style.display = "none";
   document.getElementById("quotesDiv").style.display = "block";
-
-  console.log("called");
+  
   for (let i = 0; i < quotes.length; i++) {
     var sleepTime = quotes[i].quote.length * 100;
 
@@ -22,14 +21,23 @@ function sleep(ms) {
 
 
 const quotes = [
-  {
-    "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall",
-    "author": "Nelson Mandela"
-  }, 
+
   {
     "quote": "If I had asked people what they wanted, they would have said faster horses.",
     "author": "Henry Ford"
   },
+    {
+    "quote": "Weak people revenge. Strong people forgive. Intelligent People Ignore",
+    "author": "Albert Einstein"
+  }, 
+    {
+    "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall",
+    "author": "Nelson Mandela"
+  }, 
+    {
+    "quote": "TEverybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.",
+    "author": "Albert Einstein"
+  }, 
   {
     "quote": "Work So Hard That One Day Your Signature Will Be Called An Autograph",
     "author": "Tim Notke"
@@ -104,5 +112,28 @@ const quotes = [
   {
     "quote": "Don't wish it was easier, wish you were better. Don't wish for less problem, wish for more skills. Don't wish for less challenge, wish for more wisdom.",
     "author": "Jim Rohn"
+  },
+  {
+    "quote": "You have not failed until you quit trying.",
+    "author": "Gordon B. Hinckley"
+  },
+  {
+    "quote": "If you are always trying to be normal you will never know how amazing you can be.",
+    "author": "Maya Angelou"
+  }
+  ,
+  {
+    "quote": "The meaning of life is to find your gift. The purpose of life is to give it away.",
+    "author": "Pablo Picasso"
+  }
+  ,
+  {
+    "quote": "If you think you are too small to make a difference, try sleeping with a mosquito.",
+    "author": "Dalai Lama"
+  }
+  ,
+  {
+    "quote": "Learn everything you can, anytime you can, from anyone you can - there will always come a time when you will be grateful you did.",
+    "author": "Sarah Caldwell"
   }
 ];
