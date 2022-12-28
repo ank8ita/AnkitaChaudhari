@@ -9,7 +9,7 @@ async function displayQuotes() {
     document.getElementById("quote").innerHTML = quotes[i].quote;
     document.getElementById("author").innerHTML = "- " + quotes[i].author;
     if (i === quotes.length - 1) {
-      i = 0;
+      i = -1;
     }
     await sleep(sleepTime);
   }
@@ -28,6 +28,14 @@ const quotes = [
   {
     "quote": "If I had asked people what they wanted, they would have said faster horses.",
     "author": "Henry Ford"
+  },
+  {
+    "quote": "Your mind is like this water, my friend. When it is agitated, it becomes difficult to see. But if you allow it to settle, the answer becomes clear.",
+    "author": "Grand Master Oogway (Kung Fu Panda)"
+  },
+  {
+    "quote": "There is no secret ingredient. Don’t have to. To make something special, you just believe it’s special.",
+    "author": "Mr Ping, Po’s adoptive father (Kung Fu Panda)"
   }
   ,
   {
@@ -91,6 +99,16 @@ const quotes = [
   {
     "quote": "A year from now you will wish you had started today",
     "author": "Unknown"
+  },
+  
+  {
+    "quote": "There is a saying: Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.",
+    "author": "Grand Master Oogway (Kung Fu Panda)"
+  }
+  ,
+  {
+    "quote": "There is just news. There is no good or bad.",
+    "author": "Grand Master Oogway (Kung Fu Panda)"
   },
   {
     "quote": "Never let success get to your head and never let failure get to your heart",
