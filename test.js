@@ -33,6 +33,10 @@ const quotes = [
     "quote": "Your mind is like this water, my friend. When it is agitated, it becomes difficult to see. But if you allow it to settle, the answer becomes clear.",
     "author": "Grand Master Oogway (Kung Fu Panda)"
   },
+   {
+    "quote": "Genius is 1% inspiration and 99% perspiration",
+    "author": "Thomas Edison"
+  },
   {
     "quote": "There is no secret ingredient. Don’t have to. To make something special, you just believe it’s special.",
     "author": "Mr Ping, Po’s adoptive father (Kung Fu Panda)"
