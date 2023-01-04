@@ -34,6 +34,10 @@ const quotes = [
     "author": "Grand Master Oogway (Kung Fu Panda)"
   },
    {
+    "quote": "He who asks may be a fool for five minutes. He who doesn't is a fool for a lifetime",
+    "author": "Chinese Proverb"
+  },
+   {
     "quote": "Genius is 1% inspiration and 99% perspiration",
     "author": "Thomas Edison"
   },
