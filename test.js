@@ -128,12 +128,14 @@ const quotes = [
   {
     "quote": "If it makes you nervous, you're doing it right",
     "author": "Childish Gambino"
-  }, {
+  }, 
+  {
     "quote": "Life is like riding a bicycle. To keep your balance you must keep moving",
     "author": "Albert Einstein"
-  }, {
-    "quote": "Life is getting up an hour early to live an hour more",
-    "author": "Unknown"
+  }, 
+  {
+    "quote": "I wept because I had no shoes until I saw a man who had no feet",
+    "author": "Persian proverb"
   },
   {
     "quote": "In a world full of Umbridge be a Fred and George",
