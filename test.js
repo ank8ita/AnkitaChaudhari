@@ -82,6 +82,10 @@ const quotes = [
     "quote": "The way to get started is to quit talking and begin doing",
     "author": "Walt Disney"
   },
+   {
+    "quote": "Man who waits for roast duck to fly into mouth must wait very, very, long time",
+    "author": "Chinese proverb"
+  },
   {
     "quote": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
     "author": "Benjamin Franklin"
