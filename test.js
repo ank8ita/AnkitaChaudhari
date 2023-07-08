@@ -1,5 +1,5 @@
 async function displayQuotes() {
-
+  musicPlay()
   document.getElementById("quotesButton").style.display = "none";
   document.getElementById("quotesDiv").style.display = "block";
   
@@ -18,7 +18,11 @@ async function displayQuotes() {
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
+  
 
+ function musicPlay() {
+    document.getElementById('player').play()
+ }
 
 const quotes = [
   {
