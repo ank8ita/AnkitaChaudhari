@@ -2,7 +2,7 @@ async function displayQuotes() {
   musicPlay()
   document.getElementById("quotesButton").style.display = "none";
   document.getElementById("quotesDiv").style.display = "block";
-  const randomIndex = Math.floor(Math.random() * numbers.length);
+  const randomIndex = Math.floor(Math.random() * quotes.length);
   
   for (let i = randomIndex; i <= quotes.length; i++) {
     if(i === quotes.length){
