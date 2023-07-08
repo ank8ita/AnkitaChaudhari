@@ -1,4 +1,6 @@
 async function displayQuotes() {
+  // Start the snowfall
+  generateSnowfall();
   console.log(quotes);
   document.getElementById("quotesButton").style.display = "none";
   document.getElementById("quotesDiv").style.display = "block";
@@ -18,6 +20,33 @@ async function displayQuotes() {
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
+Copy code
+// Create a snowflake
+function createSnowflake() {
+  const snowflake = document.createElement('span');
+  snowflake.className = 'snowflake';
+  snowflake.innerHTML = '&#10052;'; // You can change this to a different snowflake icon
+
+  // Set initial position and animation
+  const initialX = Math.random() * window.innerWidth;
+  const initialRotation = Math.random() * 360;
+  snowflake.style.left = initialX + 'px';
+  snowflake.style.transform = 'rotate(' + initialRotation + 'deg)';
+
+  // Add snowflake to the page
+  document.body.appendChild(snowflake);
+
+  // Remove snowflake after animation ends
+  snowflake.addEventListener('animationend', function () {
+    snowflake.parentNode.removeChild(snowflake);
+  });
+}
+
+// Generate snowfall
+function generateSnowfall() {
+  setInterval(createSnowflake, 100); // Adjust the interval to control the number of snowflakes
+}
+
 
 
 const quotes = [
