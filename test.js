@@ -20,7 +20,7 @@ async function displayQuotes() {
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
-Copy code
+
 // Create a snowflake
 function createSnowflake() {
   const snowflake = document.createElement('span');
