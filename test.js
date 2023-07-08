@@ -2,8 +2,12 @@ async function displayQuotes() {
   musicPlay()
   document.getElementById("quotesButton").style.display = "none";
   document.getElementById("quotesDiv").style.display = "block";
+  const randomIndex = Math.floor(Math.random() * numbers.length);
   
-  for (let i = 0; i < quotes.length; i++) {
+  for (let i = randomIndex; i <= quotes.length; i++) {
+    if(i === quotes.length){
+      i = 0;
+    }
     var sleepTime = quotes[i].quote.length * 100;
 
     document.getElementById("quote").innerHTML = quotes[i].quote;
