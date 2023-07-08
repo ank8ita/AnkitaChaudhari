@@ -1,7 +1,7 @@
 async function displayQuotes() {
   // Start the snowfall
   generateSnowfall();
-  console.log(quotes);
+//  console.log(quotes);
   document.getElementById("quotesButton").style.display = "none";
   document.getElementById("quotesDiv").style.display = "block";
   
