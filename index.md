@@ -16,7 +16,7 @@
   </audio>
  <div id="quotesButton" display="block">
             <div class="buttonCenter">
-                <input type="button" onclick="displayQuotes()" class="button" value="Click for Inspiration">
+                <input type="button" onclick="displayQuotes()" class="button" value="Quotes that Speak to Me">
             </div>
  </div>
  <div id="quotesDiv" display="block">
