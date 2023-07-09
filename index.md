@@ -40,8 +40,9 @@
     ❆
   </div>
 </div>
-
+</br>
  <hr class="divider">
+ </br>
  <div>
  <audio id="player" autoplay loop>
     <source src="/AnkitaChaudhari/Happy Whistling Ukulele.mp3" type="audio/mp3">
