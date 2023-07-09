@@ -41,7 +41,7 @@
   </div>
 </div>
 
-</br>
+ <hr class="divider">
  <div>
  <audio id="player" autoplay loop>
     <source src="/AnkitaChaudhari/Happy Whistling Ukulele.mp3" type="audio/mp3">
