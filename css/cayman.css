@@ -13,7 +13,7 @@
 /* customizable snowflake styling */
 .snowflake {
   color: white;
-  font-size: 3em;
+  font-size: 2em;
   font-family: Arial, sans-serif;
   text-shadow: 0 0 5px #000;
 }
