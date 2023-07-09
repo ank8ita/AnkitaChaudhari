@@ -1,7 +1,7 @@
 <script src="test.js">
 
 </script>
-
+ <hr class="divider">
 <div class="snowflakes" aria-hidden="true">
   <div class="snowflake">
   ❅
@@ -40,8 +40,7 @@
     ❆
   </div>
 </div>
-</br>
- <hr class="divider">
+
  </br>
  <div>
  <audio id="player" autoplay loop>
