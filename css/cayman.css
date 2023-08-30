@@ -10,12 +10,12 @@
   margin-top: 20px;
   margin-bottom: 20px;
 }
-  .center {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 30vh;
-        }
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+}
 /* customizable snowflake styling */
 .snowflake {
   color: white;
