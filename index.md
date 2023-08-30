@@ -43,7 +43,7 @@
 
  </br>
  <div>
- <audio id="player" autoplay loop>
+ <audio id="player" autoplay loop controls>
     <source src="/AnkitaChaudhari/Happy Whistling Ukulele.mp3" type="audio/mp3">
   </audio>
  <div id="quotesButton" display="block">
