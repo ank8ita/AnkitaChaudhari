@@ -42,13 +42,11 @@
 </div>
 
  </br>
- <div>
-  
-  <div class="center">
-        <audio id="player" autoplay loop controls>
-            <source src="/AnkitaChaudhari/Happy Whistling Ukulele.mp3" type="audio/mp3">
-        </audio>
-    </div>
+ <div class="center">
+      <audio id="player" autoplay loop controls>
+          <source src="/AnkitaChaudhari/Happy Whistling Ukulele.mp3" type="audio/mp3">
+      </audio>
+    
  <div id="quotesButton" display="block">
             <div class="buttonCenter">
                 <input type="button" onclick="displayQuotes()" class="button" value="Quotes that Speak to Me">
