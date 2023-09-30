@@ -29,6 +29,10 @@ function sleep(ms) {
  }
 
 const quotes = [
+    {
+    "quote": "Stop being perfect because obsessing about perfection stops you from growing",
+    "author": "Tyler Durden from Fight Club"
+  },
   {
     "quote": "A mind is like a parachute. It doesn't work if it is not open.",
     "author": "Frank Zappa"
