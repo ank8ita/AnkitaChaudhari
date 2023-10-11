@@ -29,6 +29,10 @@ function sleep(ms) {
  }
 
 const quotes = [
+   {
+    "quote": "It's safe to assume that no matter where you stand, someone would be happy to be in your shoes, just as you'd be happy to be in someone else's",
+    "author": "Unknown"
+  },
     {
     "quote": "Stop being perfect because obsessing about perfection stops you from growing",
     "author": "Tyler Durden from Fight Club"
