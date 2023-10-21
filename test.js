@@ -82,6 +82,10 @@ const quotes = [
     "quote": "Work So Hard That One Day Your Signature Will Be Called An Autograph",
     "author": "Tim Notke"
   },
+    {
+    "quote": "A smooth sea never made a skillful sailor",
+    "author": "Proverb"
+  },
   {
     "quote": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends",
     "author": "Harry Potter and the Sorcerer's Stone book"
