@@ -29,6 +29,10 @@ function sleep(ms) {
  }
 
 const quotes = [
+    {
+    "quote": "Don’t let your past blackmail your present, to ruin your beautiful future",
+    "author": "Dear Zindagi Movie"
+  },
    {
     "quote": "It's safe to assume that no matter where you stand, someone would be happy to be in your shoes, just as you'd be happy to be in someone else's",
     "author": "Unknown"
@@ -125,8 +129,8 @@ const quotes = [
     "quote": "Courage is like a muscle. We strengthen it by use",
     "author": "Ruth Gordo"
   }, {
-    "quote": "Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently",
-    "author": "Maya Angelou"
+    "quote": "Albert Einstein ne kaha tha, pagal woh hota hai joh roz roz same kaam karta hai, magar chahta hai ki nateeja alag ho",
+    "author": "Dear Zindagi Movie"
   },
   {
     "quote": "A year from now you will wish you had started today",
@@ -195,5 +199,14 @@ const quotes = [
   {
     "quote": "Learn everything you can, anytime you can, from anyone you can - there will always come a time when you will be grateful you did.",
     "author": "Sarah Caldwell"
+  },
+  {
+    "quote": "Jab hum apne aap ko achhi tarah samajh lete hai, to dusre kya samajhte hai, it doesn't matter. Not at all!",
+    "author": "Dear Zindagi Movie"
+  },
+   {
+    "quote": "“Losing friends as you grow up is a sign of growing up!",
+    "author": "Dear Zindagi Movie"
   }
+  
 ];
