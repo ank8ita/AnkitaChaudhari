@@ -29,6 +29,10 @@ function sleep(ms) {
  }
 
 const quotes = [
+     {
+    "quote": "Don’t just wait for inspiration. Become it.",
+    "author": "Unknown"
+  },
     {
     "quote": "Don’t let your past blackmail your present, to ruin your beautiful future",
     "author": "Dear Zindagi Movie"
