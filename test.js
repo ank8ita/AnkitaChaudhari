@@ -29,6 +29,11 @@ function sleep(ms) {
  }
 
 const quotes = [
+  
+    {
+    "quote": "You'll never be criticized by someone who is doing more than you. You'll always be criticized by someone doing less. Remember that. ",
+    "author": "DENZEL WASHINGTON"
+  },
      {
     "quote": "Don’t just wait for inspiration. Become it.",
     "author": "Unknown"
