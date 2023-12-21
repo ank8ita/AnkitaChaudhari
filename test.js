@@ -29,7 +29,10 @@ function sleep(ms) {
  }
 
 const quotes = [
-  
+   {
+    "quote": "If it's out of your hands, it deserves freedom from your mind too!",
+    "author": "Ivan Nuru"
+  },
     {
     "quote": "You'll never be criticized by someone who is doing more than you. You'll always be criticized by someone doing less. Remember that. ",
     "author": "DENZEL WASHINGTON"
