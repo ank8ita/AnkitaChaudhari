@@ -29,6 +29,42 @@ function sleep(ms) {
  }
 
 const quotes = [
+    {
+    "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Try to be a rainbow in someone's cloud.",
+    "author": "Maya Angelou"
+  },
+  {
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "quote": "You don't always need a plan. Sometimes you just need to breathe, trust, let go and see what happens.",
+    "author": "Mandy Hale"
+  },
+  {
+    "quote": "Do not allow people to dim your shine because they are blinded. Tell them to put some sunglasses on.",
+    "author": "Lady Gaga"
+  },
+  {
+    "quote": "At the end of the day, whether or not those people are comfortable with how you're living your life doesn't matter. What matters is whether you're comfortable with it.",
+    "author": "Unknown"
+  },
+   {
+    "quote": "You are never too old to set another goal or to dream a new dream.",
+    "author": "Malala Yousafzai"
+  },
+    {
+    "quote": "Life has got all those twists and turns. You've got to hold on tight and off you go.",
+    "author": "Nicole Kidman"
+  },
+  {
+    "quote": "The bad news is time flies. The good news is you're the pilot.",
+    "author": "Michael Altshuler"
+  },
    {
     "quote": "If it's out of your hands, it deserves freedom from your mind too!",
     "author": "Ivan Nuru"
