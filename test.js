@@ -29,9 +29,29 @@ function sleep(ms) {
  }
 
 const quotes = [
+   {
+    "quote": "Embrace the glorious mess that you are.",
+    "author": "Elizabeth Gilbert"
+  },
+   {
+    "quote": "A lot of people are afraid to say what they want. That's why they don't get what they want.",
+    "author": "Madonna"
+  },
     {
-    "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
-    "author": "Albert Einstein"
+    "quote": "We all have problems. But it's not what happens to us, [it 's] the choices we make after.",
+    "author": "Elizabeth Smart"
+  },
+    {
+    "quote": "You do not find the happy life. You make it.",
+    "author": "Camilla Eyring Kimball"
+  },
+  {
+    "quote": "When it comes to luck, you make your own.",
+    "author": "Bruce Springsteen"
+  },
+    {
+    "quote": "Don't try to lessen yourself for the world; let the world catch up to you.",
+    "author": "Beyoncé"
   },
   {
     "quote": "Try to be a rainbow in someone's cloud.",
