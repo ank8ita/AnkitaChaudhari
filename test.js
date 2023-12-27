@@ -29,6 +29,10 @@ function sleep(ms) {
  }
 
 const quotes = [
+    {
+    "quote": "Challenges are what make life interesting and overcoming them is what makes life meaningful.",
+    "author": "Joshua J. Marine"
+  },
    {
     "quote": "Embrace the glorious mess that you are.",
     "author": "Elizabeth Gilbert"
