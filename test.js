@@ -29,6 +29,14 @@ function sleep(ms) {
  }
 
 const quotes = [
+  {
+    "quote": "The same boiling water that softens the potato hardens the egg. It's about what you're made of, not the circumstances",
+    "author": "Unknown"
+  },
+  {
+    "quote": "Always have a unique character like salt. Its presence is not felt, but its absence makes everything tasteless.",
+    "author": "Jay Shetty’s book Think Like A Monk"
+  },
     {
     "quote": "Challenges are what make life interesting and overcoming them is what makes life meaningful.",
     "author": "Joshua J. Marine"
