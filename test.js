@@ -29,6 +29,10 @@ function sleep(ms) {
  }
 
 const quotes = [
+   {
+    "quote": "Always be yourself, express yourself, have faith in yourself. Do not go out and look for a successful personality and duplicate it",
+    "author": "Bruce Lee"
+  },
   {
     "quote": "The same boiling water that softens the potato hardens the egg. It's about what you're made of, not the circumstances",
     "author": "Unknown"
